@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

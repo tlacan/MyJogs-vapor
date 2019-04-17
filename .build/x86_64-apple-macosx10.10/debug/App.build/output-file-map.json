@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/master.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Controllers/TodoController.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/TodoController.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/Controllers/TodoController.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/TodoController~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/TodoController.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Controllers/UserController.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/UserController.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/Controllers/UserController.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/UserController~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/UserController.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Models/Todo.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/Todo.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/Models/Todo.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/Todo~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/Todo.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Models/User.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/User.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/Models/User.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/User.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Models/UserToken.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/UserToken.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/Models/UserToken.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/UserToken~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/UserToken.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/app.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/app.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/app.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/app~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/app.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/boot.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/boot.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/boot~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/configure.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/configure.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/routes.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/routes.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/App.build/routes.swiftdeps"
+  }
+}

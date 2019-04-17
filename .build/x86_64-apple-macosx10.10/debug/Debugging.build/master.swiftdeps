@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "2db8e31b91453c4af25a166526e4ce74"
+build_time: [1555478731, 37862000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Debugging/Debuggable.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Debugging/Demangler.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Debugging/SourceLocation.swift": [1555478719, 0]

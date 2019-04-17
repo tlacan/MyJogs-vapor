@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ebc8d2d8bee6cd55ba66618a45aef35f"
+build_time: [1555478742, 790806000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/url-encoded-form.git--731796681375963832/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/url-encoded-form.git--731796681375963832/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/url-encoded-form.git--731796681375963832/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/url-encoded-form.git--731796681375963832/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/url-encoded-form.git--731796681375963832/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/url-encoded-form.git--731796681375963832/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/url-encoded-form.git--731796681375963832/Sources/URLEncodedForm/Utilities/Exports.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/url-encoded-form.git--731796681375963832/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1555478721, 0]

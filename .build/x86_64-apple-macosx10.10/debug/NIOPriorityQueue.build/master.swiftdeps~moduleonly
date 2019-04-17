@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "a88fa303bbd5456c50aba57e09e53f9f"
+build_time: [1555478731, 37461000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOPriorityQueue/Heap.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOPriorityQueue/PriorityQueue.swift": [1555478722, 0]

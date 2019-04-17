@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "0a8c0ea9b4786409962f580adffc7b03"
+build_time: [1555478755, 853008000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/fluent.git--871966324100548706/Sources/FluentSQL/Exports.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/fluent.git--871966324100548706/Sources/FluentSQL/FluentSQLQuery.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/fluent.git--871966324100548706/Sources/FluentSQL/FluentSQLSchema.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/fluent.git--871966324100548706/Sources/FluentSQL/QueryBuilder+GroupBy.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/fluent.git--871966324100548706/Sources/FluentSQL/SQL+Contains.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/fluent.git--871966324100548706/Sources/FluentSQL/SQL+JoinSupporting.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/fluent.git--871966324100548706/Sources/FluentSQL/SQL+QuerySupporting.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/fluent.git--871966324100548706/Sources/FluentSQL/SQL+SchemaSupporting.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/fluent.git--871966324100548706/Sources/FluentSQL/SchemaBuilder+Field.swift": [1555478721, 0]

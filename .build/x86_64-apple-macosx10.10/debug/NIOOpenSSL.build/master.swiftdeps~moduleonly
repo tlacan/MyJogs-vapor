@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "8d0e7b1b5cd1142b2482f6bc0f3f6d86"
+build_time: [1555478739, 643671000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/IdentityVerification.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/PosixPort.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLCertificate.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLConnection.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLContext.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLErrors.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLInit.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLPublicKey.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/TLSConfiguration.swift": [1555478720, 0]

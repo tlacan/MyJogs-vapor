@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "65ac064af3a197bde0c2da3044047686"
+build_time: [1555478740, 896692000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOWebSocket/Base64.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOWebSocket/SHA1.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOWebSocket/WebSocketFrame.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOWebSocket/WebSocketOpcode.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1555478722, 0]

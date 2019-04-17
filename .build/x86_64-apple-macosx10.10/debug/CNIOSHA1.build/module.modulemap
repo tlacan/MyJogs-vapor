@@ -1,0 +1,4 @@
+module CNIOSHA1 {
+    umbrella header "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/CNIOSHA1/include/CNIOSHA1.h"
+    export *
+}

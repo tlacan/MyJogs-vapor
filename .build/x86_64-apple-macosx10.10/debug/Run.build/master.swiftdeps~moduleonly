@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c19576c2c10605c169dd0eb849f7b41d"
+build_time: [1555478759, 402685000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/Run/main.swift": [1555475205, 0]

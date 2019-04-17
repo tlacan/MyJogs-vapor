@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "8e32cd356f351d39b469027a1d5a85d9"
+build_time: [1555478758, 528868000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Controllers/TodoController.swift": [1555475205, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Controllers/UserController.swift": [1555475205, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Models/Todo.swift": [1555475205, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Models/User.swift": [1555475205, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/Models/UserToken.swift": [1555475205, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/app.swift": [1555475205, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/boot.swift": [1555475205, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/configure.swift": [1555476404, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/Sources/App/routes.swift": [1555475205, 0]

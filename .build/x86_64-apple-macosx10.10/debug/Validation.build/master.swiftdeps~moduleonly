@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "fc29a876ec8243de6236bbac8017bee0"
+build_time: [1555478742, 790692000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Exports.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validatable.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/ValidationError.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validations.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/ValidatorType.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/AndValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/CharacterSetValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/CountValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/EmailValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/EmptyValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/InValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/NilIgnoringValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/NilValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/NotValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/OrValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/RangeValidator.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/validation.git-2977145303676801164/Sources/Validation/Validators/URLValidator.swift": [1555478719, 0]

@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/master.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/Exports.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/Exports.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/Exports.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/Exports.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocket+Client.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Client.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Client.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Client~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Client.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocket+Server.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Server.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Server.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Server.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocket.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocketFrameSequence.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketFrameSequence.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketFrameSequence.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketFrameSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketFrameSequence.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocketHandler.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketHandler.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketHandler.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketHandler.swiftdeps"
+  }
+}

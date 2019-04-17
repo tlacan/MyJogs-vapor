@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/master.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Parameter/Parameter.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter/Parameter.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Parameter/ParameterValue.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/ParameterValue.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter/ParameterValue.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/ParameterValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/ParameterValue.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Parameter/Parameters.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameters.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter/Parameters.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameters~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameters.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Register/PathComponent.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/PathComponent.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Register/PathComponent.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/PathComponent~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/PathComponent.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Register/Route.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Route.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Register/Route.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Route~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Route.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Register/RouterOption.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterOption.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Register/RouterOption.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterOption~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterOption.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Routing/RoutableComponent.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutableComponent.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Routing/RoutableComponent.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutableComponent~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutableComponent.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Routing/RouterNode.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterNode.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Routing/RouterNode.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterNode.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Routing/TrieRouter.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/TrieRouter.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Routing/TrieRouter.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/TrieRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/TrieRouter.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Utilities/Deprecated.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Deprecated.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Utilities/Deprecated.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Deprecated.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Utilities/Exports.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Exports.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Exports.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Utilities/RoutingError.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutingError.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/Utilities/RoutingError.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutingError.swiftdeps"
+  }
+}

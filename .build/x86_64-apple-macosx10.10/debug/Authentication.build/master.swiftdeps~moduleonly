@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "df17f43e9620fd9309c73394fa52d9a6"
+build_time: [1555478755, 624452000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Authenticatable.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/AuthenticationCache.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/AuthenticationProvider.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Basic/BasicAuthenticatable.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Basic/BasicAuthenticationMiddleware.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Bearer/BearerAuthenticatable.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Bearer/BearerAuthenticationMiddleware.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Exports.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Password/PasswordAuthenticatable.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Password/PasswordVerifier.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Persist/AuthenticationSessionsMiddleware.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Persist/RedirectMiddleware.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Persist/SessionAuthenticatable.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Token/TokenAuthenticatable.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Token/TokenAuthenticationMiddleware.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Utilities/AuthenticationError.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/auth.git-6696822776399145680/Sources/Authentication/Utilities/GuardMiddleware.swift": [1555478722, 0]

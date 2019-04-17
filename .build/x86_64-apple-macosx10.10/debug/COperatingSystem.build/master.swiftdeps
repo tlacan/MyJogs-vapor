@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6fcc425756c809a63baa91c7983b17ff"
+build_time: [1555478731, 37461000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/COperatingSystem/libc.swift": [1555478719, 0]

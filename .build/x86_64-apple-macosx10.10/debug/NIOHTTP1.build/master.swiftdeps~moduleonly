@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "cdcb2b521794087ae27d17fc8740cab0"
+build_time: [1555478738, 261052000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOHTTP1/HTTPDecoder.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOHTTP1/HTTPEncoder.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOHTTP1/HTTPTypes.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio.git-3536564549603293986/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1555478722, 0]

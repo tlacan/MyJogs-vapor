@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/master.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/ByteBufferBIO.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/ByteBufferBIO.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/ByteBufferBIO.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/ByteBufferBIO~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/ByteBufferBIO.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/IdentityVerification.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLClientHandler.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLClientHandler.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLClientHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLClientHandler.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/OpenSSLHandler.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLHandler.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLHandler.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLHandler.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLServerHandler.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLServerHandler.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLServerHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLServerHandler.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/PosixPort.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/PosixPort.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/PosixPort.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/PosixPort~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/PosixPort.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLCertificate.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLCertificate.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLCertificate.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLCertificate~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLCertificate.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLConnection.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLConnection.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLConnection.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLConnection~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLConnection.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLContext.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLContext.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLContext.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLContext.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLErrors.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLErrors.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLErrors.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLErrors~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLErrors.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLInit.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLInit.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLInit.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLInit~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLInit.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLPointerTricks.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPointerTricks.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPointerTricks.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPointerTricks~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPointerTricks.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLPrivateKey.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPrivateKey.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPrivateKey.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPrivateKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPrivateKey.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLPublicKey.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPublicKey.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPublicKey.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPublicKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPublicKey.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLVerificationCallbacks.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLVerificationCallbacks.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLVerificationCallbacks~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLVerificationCallbacks.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/swift-nio-ssl.git-8547880891309417451/Sources/NIOOpenSSL/TLSConfiguration.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/TLSConfiguration.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/TLSConfiguration.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/TLSConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/TLSConfiguration.swiftdeps"
+  }
+}

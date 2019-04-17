@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "d808b71981826039c02b7a7e420ec4a1"
+build_time: [1555478742, 790794000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/multipart.git-1675800691398008656/Sources/Multipart/Exports.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/multipart.git-1675800691398008656/Sources/Multipart/FormDataDecoder.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/multipart.git-1675800691398008656/Sources/Multipart/FormDataEncoder.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/multipart.git-1675800691398008656/Sources/Multipart/MultipartError.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/multipart.git-1675800691398008656/Sources/Multipart/MultipartParser.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/multipart.git-1675800691398008656/Sources/Multipart/MultipartPart.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/multipart.git-1675800691398008656/Sources/Multipart/MultipartPartConvertible.swift": [1555478721, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/multipart.git-1675800691398008656/Sources/Multipart/MultipartSerializer.swift": [1555478721, 0]

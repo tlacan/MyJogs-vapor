@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "5ca768fdcad4653bdbc305c9aef46f11"
+build_time: [1555478739, 758834000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Random/Array+Random.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Random/OSRandom.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Random/RandomProtocol.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Random/URandom.swift": [1555478720, 0]

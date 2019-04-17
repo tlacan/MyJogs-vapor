@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "998834e39328bf72c209277f30bf022d"
+build_time: [1555478750, 106055000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/Exports.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocket+Client.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocket+Server.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocket.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocketFrameSequence.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/websocket.git--6119808746151369326/Sources/WebSocket/WebSocketHandler.swift": [1555478719, 0]

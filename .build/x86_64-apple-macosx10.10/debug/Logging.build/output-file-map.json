@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/master.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/console.git-4717909685433189223/Sources/Logging/Exports.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/console.git-4717909685433189223/Sources/Logging/LogLevel.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/console.git-4717909685433189223/Sources/Logging/Logger.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swiftdeps"
+  },
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/console.git-4717909685433189223/Sources/Logging/PrintLogger.swift": {
+    "dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.d",
+    "object": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swift.o",
+    "swiftmodule": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/thomaslacan/git/MyJogs-vapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swiftdeps"
+  }
+}

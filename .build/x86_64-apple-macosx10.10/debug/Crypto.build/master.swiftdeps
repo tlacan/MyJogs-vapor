@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "bf5bc21e2dab2aabb3b8982391108ad2"
+build_time: [1555478742, 791035000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/BCrypt/BCryptDigest.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Cipher/Cipher.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Digest/Digest.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Digest/DigestAlgorithm.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/MAC/HMAC.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/MAC/OTP.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/RSA/RSA.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/RSA/RSAKey.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/RSA/RSAPadding.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Random/CryptoRandom.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Utilities/Base32.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Utilities/CryptoError.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Utilities/Deprecated.swift": [1555478720, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/Crypto/Utilities/Exports.swift": [1555478720, 0]

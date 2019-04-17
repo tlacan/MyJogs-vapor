@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "5303a5fd76a57373f2c9dec2d31cd49f"
+build_time: [1555478738, 261142000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/BitsError.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/Byte+Alphabet.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/Byte+Control.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/Byte+Digit.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/ByteBuffer+peek.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/ByteBuffer+require.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/ByteBuffer+string.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/Bytes.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/Data+Bytes.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/Data+Strings.swift": [1555478719, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/core.git-8311783259025539290/Sources/Bits/Deprecated.swift": [1555478719, 0]

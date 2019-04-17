@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "2ec4a0a9f2320a6a3c71c98737aa7b35"
+build_time: [1555478742, 789900000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/console.git-4717909685433189223/Sources/Logging/Exports.swift": [1555478723, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/console.git-4717909685433189223/Sources/Logging/LogLevel.swift": [1555478723, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/console.git-4717909685433189223/Sources/Logging/Logger.swift": [1555478723, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/console.git-4717909685433189223/Sources/Logging/PrintLogger.swift": [1555478723, 0]

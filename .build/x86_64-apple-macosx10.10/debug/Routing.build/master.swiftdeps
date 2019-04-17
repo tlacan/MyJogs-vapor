@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "cad473815b3807d7e5ef3643f044d179"
+build_time: [1555478746, 681426000]
+inputs:
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Parameter/Parameter.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Parameter/ParameterValue.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Parameter/Parameters.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Register/PathComponent.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Register/Route.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Register/RouterOption.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Routing/RoutableComponent.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Routing/RouterNode.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Routing/TrieRouter.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Utilities/Deprecated.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Utilities/Exports.swift": [1555478722, 0]
+  "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/routing.git-3871893308143507853/Sources/Routing/Utilities/RoutingError.swift": [1555478722, 0]
