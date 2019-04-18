@@ -5,6 +5,10 @@ import FluentSQLite
 
 final class UserController {
 
+    /**
+    * Create user and return id, a login must be done afterward to get the token
+    * check that no user with same email already exists
+    */
     func register(_ req: Request) throws -> Future<User.UserPublic> {
         return try req.content.decode(User.self).flatMap { user in
             return User.query(on: req).filter(\.email == user.email).first().flatMap { fetchedUser in
@@ -26,6 +30,9 @@ final class UserController {
         }
     }
 
+    /**
+     * Return access token if login success
+     */
     func login(_ req: Request) throws -> Future<Token> {
         return try req.content.decode(User.self).flatMap { user in
             return User.query(on: req).filter(\.email == user.email).first().flatMap { fetchedUser in
@@ -51,11 +58,17 @@ final class UserController {
         }
     }
 
+    /**
+     * Return logged user data
+     */
     func profile(_ req: Request) throws -> Future<String> {
         let user = try req.requireAuthenticated(User.self)
         return req.future("Welcome \(user.email)")
     }
 
+    /**
+     * Delete logged user token
+     */
     func logout(_ req: Request) throws -> Future<HTTPResponse> {
         let user = try req.requireAuthenticated(User.self)
         return try Token
@@ -64,4 +77,23 @@ final class UserController {
             .delete()
             .transform(to: HTTPResponse(status: .ok))
     }
+    
+    /**
+     * Send email with password to the related user
+     */
+    func forgotPassword(_ req: Request) throws -> Future<HTTPResponse> {
+        guard let email = req.query[String.self, at: "email"] else {
+            throw Abort(.badRequest)
+        }
+        return User.query(on: req).filter(\.email == email).first().flatMap { fetchedUser in
+            if fetchedUser != nil {
+                throw Abort(HTTPStatus.badRequest)
+            }
+            // send email with passord
+            
+            return req.future(HTTPResponse(status: .ok))
+        }
+    }
+    
+    // TO DO: edit user
 }
