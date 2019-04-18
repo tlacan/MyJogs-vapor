@@ -1,4 +1,0 @@
-module CCryptoOpenSSL {
-    umbrella "/Users/thomaslacan/git/MyJogs-vapor/.build/checkouts/crypto.git--7530140814869754410/Sources/CCryptoOpenSSL/include"
-    export *
-}
