@@ -89,11 +89,36 @@ final class UserController {
             if fetchedUser != nil {
                 throw Abort(HTTPStatus.badRequest)
             }
-            // send email with passord
+            // TODO: send email with passord
             
             return req.future(HTTPResponse(status: .ok))
         }
     }
     
-    // TO DO: edit user
+    /**
+     * Edit current user with data, check if no user with same email before update
+     */
+    func editUser(_ req: Request) throws -> Future<User.UserPublic> {
+        let currentUser = try req.requireAuthenticated(User.self)
+        return try req.content.decode(User.self).flatMap { user in
+            return User.query(on: req).filter(\.email == user.email).first().flatMap { fetchedUser in
+                if fetchedUser != nil && currentUser.id != fetchedUser?.id {
+                    throw Abort(HTTPStatus.conflict)
+                }
+                
+                let hasher = try req.make(BCryptDigest.self)
+                let passwordHashed = try hasher.hash(user.password)
+                
+                currentUser.email = user.email
+                currentUser.password = passwordHashed
+                return currentUser.update(on: req).map { storedUser in
+                    return User.UserPublic(
+                        id: try storedUser.requireID(),
+                        email: storedUser.email
+                    )
+                }
+            }
+        }
+    
+    }
 }
