@@ -15,6 +15,7 @@ public func routes(_ router: Router) throws {
     // public routes
     router.post("register", use: userController.register)
     router.post("login", use: userController.login)
+    router.get("forgot-password", use: userController.forgotPassword)
 
     
     // private routes

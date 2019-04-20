@@ -9,6 +9,7 @@ import Vapor
 import Crypto
 import Random
 import FluentSQLite
+import Mailgun
 
 final class UserController {
 
@@ -106,8 +107,22 @@ final class UserController {
                 throw Abort(HTTPStatus.badRequest)
             }
             // TODO: send email with passord
-            
-            return req.future(HTTPResponse(status: .ok))
+            return try req.view().render("lostPasswordEmail").flatMap { view in
+                guard let contentTxt = String(data: view.data, encoding: .utf8) else {
+                     throw Abort(HTTPStatus.badRequest)
+                }
+                let message = Mailgun.Message(
+                    from: "postmaster@sandboxa7e601d25d8a40578e4a669f14ca36f5.mailgun.org",
+                    to: "lacan.thomas@gmail.com",
+                    subject: "lost password",
+                    text: "",
+                    html: contentTxt
+                )
+                
+                let mailgun = try req.make(Mailgun.self)
+                return try mailgun.send(message, on: req)
+                                  .transform(to: (HTTPResponse(status: .ok)))
+            }
         }
     }
     
