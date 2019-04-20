@@ -1,3 +1,10 @@
+//
+//  JogsController.swift
+//  App
+//
+//  Created by thomas lacan on 18/04/2019.
+//
+
 import Vapor
 import Leaf
 import FluentSQLite
@@ -27,5 +34,6 @@ public func configure(
     var migrations = MigrationConfig()
     migrations.add(model: User.self, database: .sqlite)
     migrations.add(model: Token.self, database: .sqlite)
+    migrations.add(model: Jog.self, database: .sqlite)
     services.register(migrations)
 }

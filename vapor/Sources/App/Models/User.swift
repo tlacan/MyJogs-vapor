@@ -1,3 +1,10 @@
+//
+//  JogsController.swift
+//  App
+//
+//  Created by thomas lacan on 18/04/2019.
+//
+
 import FluentSQLite
 import Vapor
 import Authentication

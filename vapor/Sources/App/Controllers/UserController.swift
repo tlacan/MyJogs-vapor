@@ -1,3 +1,10 @@
+//
+//  JogsController.swift
+//  App
+//
+//  Created by thomas lacan on 18/04/2019.
+//
+
 import Vapor
 import Crypto
 import Random
@@ -65,6 +72,15 @@ final class UserController {
         let user = try req.requireAuthenticated(User.self)
         return req.future("Welcome \(user.email)")
     }
+    
+    /**
+     * Delete logged user
+     */
+    func delete(_ req: Request) throws -> Future<HTTPStatus> {
+        let user = try req.requireAuthenticated(User.self)
+        _ = try Token.query(on: req).filter(\Token.userId, .equal, user.requireID()).delete()
+        return user.delete(on: req).transform(to: HTTPStatus.ok)
+    }
 
     /**
      * Delete logged user token
@@ -119,6 +135,5 @@ final class UserController {
                 }
             }
         }
-    
     }
 }

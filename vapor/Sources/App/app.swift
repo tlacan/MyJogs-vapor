@@ -1,3 +1,10 @@
+//
+//  JogsController.swift
+//  App
+//
+//  Created by thomas lacan on 18/04/2019.
+//
+
 import Vapor
 
 /// Creates an instance of Application. This is called from main.swift in the run target.
