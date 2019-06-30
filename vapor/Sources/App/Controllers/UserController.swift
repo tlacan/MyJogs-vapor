@@ -45,7 +45,7 @@ final class UserController {
         return try req.content.decode(User.self).flatMap { user in
             return User.query(on: req).filter(\.email == user.email).first().flatMap { fetchedUser in
                 guard let existingUser = fetchedUser else {
-                    throw Abort(HTTPStatus.notFound)
+                    throw Abort(HTTPStatus.internalServerError)
                 }
 
                 let hasher = try req.make(BCryptDigest.self)
@@ -60,7 +60,7 @@ final class UserController {
                         return token.save(on: req)
                     }
                 } else {
-                    throw Abort(HTTPStatus.unauthorized)
+                    throw Abort(HTTPStatus.internalServerError)
                 }
             }
         }
